@@ -11,11 +11,11 @@
 
 ## About me
 
-* I am a third year Software Engineering Student at McMaster, with an expected graduation date in 2024!
-* Currently, I am looking for internship/CO-OP opportunities for the summer of 2023!
+* I am a third year Software Engineering Student at McMaster, with an expected graduation date in 2025!
+* Currently, I am looking for internship/CO-OP opportunities for the summer of 2024!
 * Some of my educational interests include: 
-  - Expirementing with front-end interface through HTML/CSS. 
-  - Creating and managing various API projects. You can check my recent weather app API under my reposintories!
+  - Experimenting with front-end interface through HTML/CSS. 
+  - Creating and managing various API projects. You can check my recent weather app API under my repositories!
   - Machine Learning
   - Learning about databases and cloud software such as AWS, Microsoft Azure etc.
 * I am proficient in the following languages:
@@ -28,8 +28,9 @@
   - JavaScript
   - SQL
   - LaTeX
-* Currently, I am working towards finishing my AWS Certified Cloud Practitioner Licence
-* Aside from studying my degree, I have a part time jobs where i work at MACtion and 360eTech
+* Currently, I am working towards finishing my AZ-900: Microsoft Azure Fundamental after receiving my AWS Certified Cloud Practitioner Licence
+* I am currently a software engineering inter at Evertz microsystems and an on-call IT developer at 360etech.
+* I have a passion for cloud and automation/devops development and would love continue working in that field.
 * My hobbies include:
   - Watching/ playing football (soccer)
   - Reading novels
